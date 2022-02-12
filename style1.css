@@ -1,0 +1,19 @@
+   body {
+          background-image: url("img/pdip.jpg");
+	         background-size: cover;
+	         baseline-shift: baseline;
+              }
+
+ h1{
+    text-align: center;
+    color: blue;
+   } 
+
+   h2{
+    text-align: center;
+    color: #17E485;
+   }
+
+          
+
+   
