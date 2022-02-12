@@ -20,11 +20,4 @@
 				padding: 20px;
 			}
 
-			<body>
-		<h1 id="poin">0</h1>
-		<img id="popowi" src="./img/jokowi-idle.png" onclick="jokowi()" />
-
-		<script src="./index.js"></script>
-	</body>
-
-		
+			
